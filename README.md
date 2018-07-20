@@ -1,4 +1,5 @@
 # wisp_paperwallet
+
 Wisp Paper Wallet Generator with BIP38 Encryption/Decryption
 
 Notice of Copyrights and Licenses:
@@ -11,7 +12,9 @@ is also in turn a fork of the original bitaddress.org project.
 Each can be found on GitHub below :
 
 https://github.com/linX-project/PaperWallet
+
 https://github.com/MichaelMure/WalletGenerator.net
+
 https://github.com/pointbiz/bitaddress.org
 
 The Wisp name and logo are not part of the open source license.
